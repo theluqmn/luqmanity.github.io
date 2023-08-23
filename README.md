@@ -3,6 +3,8 @@
 It's my second attempt on HTML, CSS and JavaScript lol.
 An attempt to create a portfolio website for myself.
 
+It works? Sure
+
 # What's coming?
 
 All the new things I've learned related to web-dev will be applied
