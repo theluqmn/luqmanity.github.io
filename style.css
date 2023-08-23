@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(60, 60, 60);
+    text-align: center;
+}
+
+p, pre {
+    color:whitesmoke;
+    font-family: Arial;
+    padding: 5px;
+}
+
+
+h1 {
+    color: whitesmoke;
+    font-family: Calibri;
+}
+
+a {
+    color: rgb(132, 198, 248);
+    font-family: Helvetica;
+}
+
+head {
+    padding: 10px;
+}
