@@ -1,25 +1,39 @@
-body {
-    background-color: rgb(60, 60, 60);
-    text-align: center;
+div {
+    border: 1px white;
+    padding: 10px
 }
-
-p, pre {
-    color:whitesmoke;
-    font-family: Arial;
-    padding: 5px;
-}
-
 
 h1 {
-    color: whitesmoke;
-    font-family: Calibri;
+    text-align: center;
+    text-transform: uppercase;
+    color: lightblue;
+    font-family: Helvetica, Arial;
+    font-weight: lighter;
+    font-size: 5vw;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: lightblue;
+    font-family: Helvetica, Arial;
+    font-size: 1.2em;
+}
+
+p {
+    text-align: justify;
+    letter-spacing: 1px;
+    color: aliceblue;
+    font-family: Arial;
+    font-size: 1em;
 }
 
 a {
-    color: rgb(132, 198, 248);
-    font-family: Helvetica;
+    text-decoration: none;
+    color: lightskyblue;
+    font-family: Arial;
+    font-size: 1em;
 }
 
-head {
-    padding: 10px;
+body {
+    background-color: rgb(80, 80, 80);
 }
