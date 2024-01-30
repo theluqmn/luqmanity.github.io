@@ -21,7 +21,7 @@ div {
 }
 
 .nav a{
-    background-color: rgb(80, 80, 80);
+    background-color: rgb(50,50,50);
     letter-spacing: 1px;
     color: lightblue;
     font-family: Arial;
@@ -38,6 +38,11 @@ h1 {
     font-family: Helvetica, Arial;
     font-weight: lighter;
     font-size: 3vw;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(10,10,10)
 }
 
 h3 {
@@ -63,5 +68,5 @@ a {
 }
 
 body {
-    background-color: rgb(80, 80, 80);
+    background-color: rgb(50, 50, 50);
 }
