@@ -1,15 +1,6 @@
 # My Portfolio Website
 
-It's my second attempt on HTML, CSS and JavaScript lol.
-An attempt to create a portfolio website for myself.
+This is my portfolio website. It sucks.
+I don't really like frontend things so... as long as it works.
 
-It works? Sure
-
-# What's coming?
-
-All the new things I've learned related to web-dev will be applied
-to this portfolio website. Made it public so everyone can have a look
-and maybe learn a thing or two.
-
-As I continue learning JavaScript with some HTML and CSS with it,
-this repo will follow suit with the progress.
+Made purely with HTML and CSS, with no JavaScript lol.
